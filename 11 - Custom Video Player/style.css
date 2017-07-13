@@ -28,7 +28,7 @@ body {
 }
 
 /* This css is only applied when fullscreen is active. */
-.player:fullscreen {
+.fullscreen {
   max-width: none;
   width: 100%;
 }
